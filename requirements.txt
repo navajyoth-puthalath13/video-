@@ -1,0 +1,6 @@
+flask
+google-cloud-videointelligence
+google-cloud-texttospeech
+openai
+waitress
+protobuf==3.20.3
